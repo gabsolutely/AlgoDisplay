@@ -1,4 +1,4 @@
-# AlgoDisplay — Interactive Algorithm Visualization Platform // ######################
+# AlgoDisplay — Interactive Algorithm Visualization Platform
 ----------------------------------
 A web-based algorithm visualization tool with:
  - Dual-language support (JavaScript & Python)
