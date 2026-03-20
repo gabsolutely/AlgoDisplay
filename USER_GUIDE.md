@@ -253,4 +253,3 @@ If you encounter issues:
 3. Try with simpler algorithms first
 4. Ensure your browser supports WebAssembly (for Python)
 
-Happy coding and visualizing! 🚀
