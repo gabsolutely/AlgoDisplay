@@ -195,6 +195,7 @@ async def sort(arr):
  - "Missing 'await'" — Add await before visualization function calls
  - "Python not ready" — Wait for Pyodide to load completely
  - "Infinite loops detected" — Check algorithm termination conditions
+ - "Code must include 'async def sort(arr):' function" - Rename head function to `async def sort(arr):`
 
 ## Possible Extensions // ##########################################
  ### Algorithm Support:
