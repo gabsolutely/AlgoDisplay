@@ -240,3 +240,5 @@ async def sort(arr):
 
 > - **For detailed usage instructions and examples, see USER_GUIDE.md**
 > - **Contributions and bug reports welcome on GitHub Issues**
+
+> ### V2 soon.
